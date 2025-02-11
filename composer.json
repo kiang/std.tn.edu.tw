@@ -1,0 +1,8 @@
+{
+    "require": {
+        "symfony/browser-kit": "^7.2",
+        "symfony/http-client": "^7.2",
+        "symfony/css-selector": "^7.2",
+        "symfony/mime": "^7.2"
+    }
+}
